@@ -1,5 +1,6 @@
-layout_spectrum: 0.2883786482270807
 typography_spectrum: 0.5849894734565169
+content_rating:
+  adult: true
 color:
   brandStrength: 0.2001499889884144
   lightness: 0.8570811396930367
@@ -11,7 +12,9 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
-name: Corfu 3D TOURS&nbsp;
+layout_spectrum: 0.2883786482270807
 author:
   name: 'Jon Nash '
   email: jon@jonnash.com
+name: Corfu 3D TOURS&nbsp;
+title: Be there... Step inside and explore with us
