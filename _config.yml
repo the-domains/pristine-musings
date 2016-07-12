@@ -1,0 +1,14 @@
+layout_spectrum: 0.2883786482270807
+typography_spectrum: 0.5849894734565169
+color:
+  brandStrength: 0.2001499889884144
+  lightness: 0.8570811396930367
+  saturation: 0.04379858681932092
+  rhythmicContrast: 0.8186239961069077
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+name: pristine musings
